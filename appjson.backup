@@ -1,9 +1,9 @@
 {
-  "name": "GDrive-Uploader-Bot",
-  "description": "Telegram/Direct Links to GDrive Uploader Bot",
-  "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
+  "name": "GDUP",
+  "description": "MAGIC",
+  "repository": "https://github.com/iminamoto/google-drive-telegram-bot",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
-  "keywords": ["Telegram", "Google Drive", "uploader"],
+  "keywords": ["Telegram"],
   "env": {
     "ENV": {
       "description": "Set it to anything to enable configuration by environment variables.",
